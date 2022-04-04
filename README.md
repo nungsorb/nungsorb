@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![nungsorb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nungsorb&show_icons=true&count_private=true&hide=contribs,prs&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nungsorb&langs_count=8&theme=react)
