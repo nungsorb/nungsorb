@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nungsorb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nungsorb&show_icons=true&count_private=true&hide=contribs,prs&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nungsorb&langs_count=8&theme=react)
+![cat meme](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
