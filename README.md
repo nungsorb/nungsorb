@@ -1,5 +1,6 @@
 ### 👋👋👋
 I'm starting to
+- [Fundamental of Bash](https://github.com/nungsorb/Linkedin_learning_lab/tree/main/bash_scripting)
 - Learning Deep learning
 - Json Javascript database for Node.js 
 
